@@ -14,3 +14,4 @@ aws eks update-kubeconfig \
 ## Things to be improved
 * Add tags to resources
 * Adjust variables for node groups
+* Add output values for cluster and app specific information (e.g App URL)
